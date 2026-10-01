@@ -1,3 +1,5 @@
+**[中文](README.md) | English**
+
 # jamesliu-OptionLog-skill
 
 A ChatGPT Skill for maintaining a structured **SPX options trading journal**, currently optimized for **SPX Put Credit Spreads (PCS / Bull Put Credit Spreads)** traded through thinkorswim / Schwab.
