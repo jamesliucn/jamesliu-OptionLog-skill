@@ -1,3 +1,5 @@
+**中文 | [English](README_EN.md)**
+
 # jamesliu-OptionLog-skill
 
 一个用于维护 **SPX 期权交易日志** 的 ChatGPT Skill，当前主要针对 thinkorswim / Schwab 中的 **SPX Put Credit Spread（PCS / Bull Put Credit Spread）** 交易。
